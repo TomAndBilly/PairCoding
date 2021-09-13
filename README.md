@@ -22,3 +22,20 @@ Testing Types
 - - Does your pot increase correctly on a win?
 - - Does your pot decrease correctly on a loss?
 - - Does drawing a card display the correct card image?
+
+
+# Documentation Needs
+- Contents
+- Describe Architecture (Services, and how everything talks to each other)
+- Production Environment (Map of end user intefaces)
+- Dev Environment
+- Tools
+- Takeaways from previous projects
+- Method (How we made the thing)
+- Continuous Integration
+- Describe Version Control
+REGULARLY PUSH TO AVOID MAJOR CLASHES
+- Risk Assessment (SWOT)
+- Testing (Every tool & how you're using)
+- Cite Code Snippet
+- Highlight Pitfalls in Replication

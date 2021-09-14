@@ -1,6 +1,8 @@
 # Pair Coding
 ## _Project Documentation_
 
+![Architecture](./Media/Architecture.png)
+
 Testing Types
 - Selenium for Black Box (Human stand in automation)
 - Cucumber (Acceptance Testing)
@@ -23,6 +25,14 @@ Testing Types
 - - Does your pot decrease correctly on a loss?
 - - Does drawing a card display the correct card image?
 
+Future improvements  
+- Multiplayer  
+- Better graphics 
+- Additional rules (i.e. split) 
+- Saving progress  
+- Story mode  
+- Customize character  
+- Trophy system  
 
 # Documentation Needs
 - Contents
@@ -39,3 +49,7 @@ REGULARLY PUSH TO AVOID MAJOR CLASHES
 - Testing (Every tool & how you're using)
 - Cite Code Snippet
 - Highlight Pitfalls in Replication
+
+# Takeaway from previous project  
+
+The main takeaway from previous projects is that we are now more aware of our shortcomings and can focus more on those aspects to ensure that they will not come up in this project. Additionally we have learnt to put in the time, if we focus and keep each other from being distracted the work will get done better and it’ll get done faster.  

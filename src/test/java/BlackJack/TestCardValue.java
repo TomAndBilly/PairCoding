@@ -14,6 +14,6 @@ public class TestCardValue {
     public void testCardValue()
     {
         testCard.setCardValue(2);
-        assertEquals(testCard.getCardValue(), 2, "This cards has the wrong value");
+        assertEquals(2, testCard.getCardValue(), "This cards has the wrong value");
     }
 }

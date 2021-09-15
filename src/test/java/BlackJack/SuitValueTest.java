@@ -12,7 +12,7 @@ public class SuitValueTest {
     @DisplayName("Second Test")
     public void testGetSuitAmount()
     {
-        assertEquals(Deck.getAmountInEachSuit(), 13, "There are not 13 cards in this suit");
+        assertEquals(13,deck.getAmountInEachSuit(), "There are not 13 cards in this suit");
 
     }
 }

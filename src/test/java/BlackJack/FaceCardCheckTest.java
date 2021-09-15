@@ -14,6 +14,6 @@ public class FaceCardCheckTest {
     public void testSuitType()
     {
         testCard.setFaceCard(testCard.isFaceCard());
-        assertEquals(testCard.isFaceCard(), true, "This cards is not a face card");
+        assertEquals(true,testCard.isFaceCard(),  "This cards is not a face card");
     }
 }

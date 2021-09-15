@@ -14,7 +14,7 @@ public class DeckValueTest {
     public void testDeckAmount()
     {
         deck.setAmount(52);
-        assertEquals(Deck.getAmount(), 52, "Test Failed: Deck Amount doesn't equal 52");
+        assertEquals(52,Deck.getAmount(),  "Test Failed: Deck Amount doesn't equal 52");
 
     }
 

@@ -13,7 +13,7 @@ public class SuitTypeTest {
     public void testSuitType()
     {
         testCard.setSuit("Hearts");
-        assertEquals(testCard.getSuit(), "Hearts", "This cards is not a heart");
+        assertEquals("Hearts", testCard.getSuit(), "This cards is not a heart");
     }
 }
 

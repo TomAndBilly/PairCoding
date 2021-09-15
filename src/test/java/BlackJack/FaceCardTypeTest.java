@@ -15,6 +15,6 @@ public class FaceCardTypeTest {
     {
         testCard.setFaceCard(testCard.isFaceCard());
         testCard.setFaceCardType("King");
-        assertEquals(testCard.getFaceCardType(), "King", "This cards is not a face card");
+        assertEquals("King",testCard.getFaceCardType(),  "This cards is not a face card");
     }
 }

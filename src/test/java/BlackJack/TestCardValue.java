@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class CardValueTest {
+public class TestCardValue {
 
     Card testCard = new Card(0,"Hearts");
 

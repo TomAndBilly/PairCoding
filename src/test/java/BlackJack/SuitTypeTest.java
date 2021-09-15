@@ -9,7 +9,7 @@ public class SuitTypeTest {
     Card testCard = new Card (0, "Hearts");
 
     @Test
-    @DisplayName("Third Test")
+    @DisplayName("Fourth Test")
     public void testSuitType()
     {
         testCard.setSuit("Hearts");

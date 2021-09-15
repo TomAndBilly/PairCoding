@@ -11,8 +11,9 @@ public class DeckValueTest {
 
     @Test
     @DisplayName("First Test")
-    public void testGetCardValue()
+    public void testDeckAmount()
     {
+        deck.setAmount(52);
         assertEquals(Deck.getAmount(), 52, "Test Failed: Deck Amount doesn't equal 52");
 
     }

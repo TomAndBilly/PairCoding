@@ -18,7 +18,7 @@ public class Deck {
         return suitType;
     }
 
-    public static void setSuitType(String[] suitType) {
+    public static void setSuitType(String [] suitType) {
         Deck.suitType = suitType;
     }
 

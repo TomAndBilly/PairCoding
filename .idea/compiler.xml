@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="BlackJack-Pair-Coding" target="11" />
+      <module name="BlackJack-Pair-Coding" target="16" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

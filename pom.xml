@@ -140,7 +140,6 @@
         <sonar.coverage.jacoco.xmlReportPaths>${project.basedir}/../target/jacoco.exec</sonar.coverage.jacoco.xmlReportPaths>
         <sonar.language>java</sonar.language>
 
-        <java.version>1.8</java.version>
         <junit.version>4.13.2</junit.version>
     </properties>
     <build>

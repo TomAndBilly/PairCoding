@@ -9,11 +9,12 @@ public class FaceCardCheckTest {
 
     Card testCard = new Card (11, "Hearts");
 
+    @org.junit.Test
     @Test
     @DisplayName("Fith Test")
     public void testSuitType()
     {
-        testCard.setFaceCard(testCard.isFaceCard());
-        assertEquals(true,testCard.isFaceCard(),  "This cards is not a face card");
+        testCard.setFaceCard(true);
+        assertEquals(true, testCard.isFaceCard(),  "This cards is not a face card");
     }
 }

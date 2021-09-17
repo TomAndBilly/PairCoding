@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.956 s <<< FAILURE! - in TestSuite
+testSuitType(BlackJack.FaceCardCheckTest)  Time elapsed: 0.023 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: This cards is not a face card ==> expected: <true> but was: <false>
+	at BlackJack.FaceCardCheckTest.testSuitType(FaceCardCheckTest.java:17)
+

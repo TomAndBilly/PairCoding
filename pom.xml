@@ -129,7 +129,7 @@
 
         <maven.compiler.source>16</maven.compiler.source>
         <maven.compiler.target>16</maven.compiler.target>
-        <sonar.organization>TomAndBilly</sonar.organization>
+        <sonar.organization>tomandbilly</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <maven.surefire.version>2.22.2</maven.surefire.version>
 

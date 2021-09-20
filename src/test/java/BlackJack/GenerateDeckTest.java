@@ -7,7 +7,7 @@ import java.util.Stack;
 
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
-public class generateDeckTest {
+public class GenerateDeckTest {
     @Test
     @DisplayName("Test to check deck generation")
     void generateDeckTest(){

@@ -16,7 +16,7 @@ public class DeckGenerator {
             for (int i = 1; i <= suitSize; i++) {
                 Card card = new Card(i,suits[suitCount]);
                 switch (card.getCardValue()) {
-                    case 11 -> {card.setFaceCardType("Joker"); card.setFaceCard(true);}
+                    case 11 -> {card.setFaceCardType("Jack"); card.setFaceCard(true);}
                     case 12 -> {card.setFaceCardType("Queen"); card.setFaceCard(true);}
                     case 13 -> {card.setFaceCardType("King"); card.setFaceCard(true);}
                     default -> {card.setFaceCardType("Regular");  card.setFaceCard(false);}

@@ -23,6 +23,9 @@ public class PlayerGenerateStartingMoneyTest {
         GameRules.blackJackGameRules(deck);
         GameRules.blackJackDealNewHand(deck, player.getHand(), dealer.getHand());
 
+        dealer.showHand();
+        player.showHand();
+
         assertEquals(500,player.getStartingMoney(), "The player has the wrong amount of money");
         assertEquals(500,dealer.getStartingMoney(), "The Dealer has the wrong amount of money");
 

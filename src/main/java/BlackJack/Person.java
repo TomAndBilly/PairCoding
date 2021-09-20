@@ -22,7 +22,9 @@ public class Person {
     public void showHand(){
 //        System.out.println("Your current hand is:");
         for (Card c:getHand()) {
-           // new CardImageGenerator(c.getSuit(),c.getCardValue());
+           // new CardImageGenerator
+            c.getSuit();
+            c.getCardValue();
         }
 
     }

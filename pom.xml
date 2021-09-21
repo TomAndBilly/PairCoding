@@ -175,7 +175,7 @@
                                 </rule>
                             </rules>
                             <excludes>
-                                <exclude>**/*Main*.java</exclude>
+                                <exclude>**/Main.java</exclude>
                             </excludes>
                         </configuration>
                     </execution>

@@ -44,11 +44,11 @@ Future improvements
 - Lack of time (Made worse by the deadline being brought forward a week)
 
 
-## Version Control
+# Version Control
 Git hub will be used as the version control system for all of the branches (Main, master and react and release)
 
 
-## Testing
+# Testing
 
 Most testing will be done using Junit and the overall code coverage will checked in a quality gate in sonarcloud 
 

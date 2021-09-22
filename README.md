@@ -34,16 +34,33 @@ Future improvements
 - Customize character  
 - Trophy system  
 
+# Risk  Assessment
+## _Strengths_ 
+- We are using Ashes code
+- It is a realtivly simple idea 
+## _Weaknesses_ 
+- We are inexpereinced and incompetent
+- Too much work put into hte sprint
+- Lack of time (Made worse by the deadline being brought forward a week)
+
+
+## Version Control
+Git hub will be used as the version control system for all of the branches (Main, master and react and release)
+
+
+## Testing
+
+Most testing will be done using Junit and the overall code coverage will checked in a quality gate in sonarcloud 
+
+
+
 # Documentation Needs
-- Contents
 - Describe Architecture (Services, and how everything talks to each other)
 - Production Environment (Map of end user intefaces)
 - Dev Environment
 - Tools
 - Takeaways from previous projects
 - Method (How we made the thing)
-- Continuous Integration
-- Describe Version Control
 REGULARLY PUSH TO AVOID MAJOR CLASHES
 - Risk Assessment (SWOT)
 - Testing (Every tool & how you're using)

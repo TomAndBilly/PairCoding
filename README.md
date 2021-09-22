@@ -52,6 +52,9 @@ Git hub will be used as the version control system for all of the branches (Main
 
 Most testing will be done using Junit and the overall code coverage will checked in a quality gate in sonarcloud 
 
+# Takeaway from previous project  
+
+The main takeaway from previous projects is that we are now more aware of our shortcomings and can focus more on those aspects to ensure that they will not come up in this project. Additionally we have learnt to put in the time, if we focus and keep each other from being distracted the work will get done better and it’ll get done faster.  
 
 
 # Documentation Needs
@@ -67,6 +70,3 @@ REGULARLY PUSH TO AVOID MAJOR CLASHES
 - Cite Code Snippet
 - Highlight Pitfalls in Replication
 
-# Takeaway from previous project  
-
-The main takeaway from previous projects is that we are now more aware of our shortcomings and can focus more on those aspects to ensure that they will not come up in this project. Additionally we have learnt to put in the time, if we focus and keep each other from being distracted the work will get done better and it’ll get done faster.  

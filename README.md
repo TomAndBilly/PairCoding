@@ -39,11 +39,15 @@ Future improvements
 - We are using Ashes code
 - It is a realtivly simple idea 
 ## _Weaknesses_ 
-- We are inexpereinced and incompetent
+- We are inexperienced and incompetent
 - Too much work put into hte sprint
 - Lack of time (Made worse by the deadline being brought forward a week)
-
-
+- Had to learn new systems we were inexperienced in 
+## _Opportunities_  
+- This project gave us the ability to learn the new systems mentioned in weaknesses 
+- This was our first peer programing asssignment and gave us the chance to see how easy it can be not to do it by yourself
+## _Threats_  
+- No Obvious threats 
 # Version Control
 Git hub will be used as the version control system for all of the branches (Main, master and react and release)
 
@@ -65,8 +69,9 @@ The main takeaway from previous projects is that we are now more aware of our sh
 - Takeaways from previous projects
 - Method (How we made the thing)
 REGULARLY PUSH TO AVOID MAJOR CLASHES
-- Risk Assessment (SWOT)
 - Testing (Every tool & how you're using)
-- Cite Code Snippet
 - Highlight Pitfalls in Replication
 
+
+## References
+https://github.com/asharubendy/Black-Jack-TSI - Ash's code
